@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "name": "blurple2",
+        "author": "gorilla",
+        "license": "do whatever the fuck you want",
+        "version": "0.0.1",
+        "updater": ""
+    },
+    "background": {},
+    "fonts": {
+        "ginto_medium": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Medium.ttf?raw=true",
+        "whitney_medium": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Medium.ttf?raw=true",
+        "ginto_regular": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Normal.ttf?raw=true",
+        "*": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Medium.ttf?raw=true",
+        "whitney_semibold": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Semibold.ttf?raw=true",
+        "sourcecodepro_semibold": "https://github.com/hmm-monke/fonts/blob/main/ggmono-Normal.ttf?raw=true",
+        "roboto_medium_numbers": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Medium.ttf?raw=true",
+        "ginto_bold": "https://github.com/hmm-monke/fonts/blob/main/ggsans-Bold.ttf?raw=true",
+        "whitney_bold": "https://github.com/hmm-monke/fonts/blob/main/ggsans-ExtraBold.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background": -14935006,
+        "blocked_bg": -14211281,
+        "input_background": -14277074,
+        "accent": -10983950,
+        "background_secondary": -14277074,
+        "statusbar": -14935006,
+        "mention_highlight": 763892
+    },
+    "colors": {
+        "link": -16209674,
+        "link_500": -16209674,
+        "brand_500_alpha_20": -1389284500,
+        "brand_new_260": -3485955,
+        "primary_dark_300": -13816513
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
